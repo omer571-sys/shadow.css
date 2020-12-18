@@ -149,4 +149,4 @@ box-shadow neon-blue-lg
 <br>
 
 ## Copyright and license
-Code and documentation copyright 2011–2020 the Ömer Faruk IŞIK. Code released under the MIT License.
+Code and documentation copyright 2020-2021 the Ömer Faruk IŞIK. Code released under the MIT License.
