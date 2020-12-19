@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://shadowcss.github.io">
+  <a href="https://shadow-teams.github.io/shadowcss.github.io/">
     <img src="src/shadowcss.png" alt="ShadowCSS" width="300px">
   </a>
   <p align="center">Shadow.css, Adding shadows to your website for aesthetic look.</p>
